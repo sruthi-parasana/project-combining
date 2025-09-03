@@ -1,0 +1,6 @@
+com\taskmanager\pages\LoginPage.class
+com\taskmanager\pages\RegisterPage.class
+com\taskmanager\tests\LoginTest.class
+com\taskmanager\tests\BaseTest.class
+com\taskmanager\tests\RegisterTest.class
+com\taskmanager\pages\TaskManagerPage.class

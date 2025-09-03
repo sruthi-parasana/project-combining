@@ -1,0 +1,16 @@
+/* Reset some default browser styles */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  background-color: #e9ecef;
+}
+
+/* Center the app nicely */
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 40px;
+}

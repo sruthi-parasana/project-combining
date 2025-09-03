@@ -1,0 +1,7 @@
+/* src/components/TaskManager.css */
+.task-manager { max-width:480px; margin:24px auto; padding:16px; border-radius:8px; border:1px solid #ddd; background:#fafafa; }
+.task-manager input { padding:8px; width:70%; margin-right:8px; }
+.task-manager button { padding:8px; }
+.task-manager ul { list-style:none; padding:0; margin-top:12px; }
+.task-manager li { display:flex; justify-content:space-between; padding:8px; background:#fff; border-radius:6px; margin-bottom:8px; }
+.task-manager li.done span { text-decoration: line-through; opacity:0.6; }
